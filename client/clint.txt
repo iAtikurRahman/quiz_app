@@ -1,0 +1,4 @@
+login/register
+select a option
+quiz start
+marks show

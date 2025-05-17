@@ -27,5 +27,7 @@ A simple and interactive Quiz App that allows users to test their knowledge on v
    ```bash
    git clone https://github.com/your-username/quiz-app.git
    cd quiz-app
+   ```
 
+2. **Docker Containerization**
 

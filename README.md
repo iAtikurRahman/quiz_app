@@ -27,17 +27,7 @@ A simple and interactive Quiz App that allows users to test their knowledge on v
    ```bash
    git clone https://github.com/your-username/quiz-app.git
    cd quiz-app
+   ```
 
-
-quiz-app/
-│
-├── public/             # Static assets
-├── src/                # Source code
-│   ├── components/     # UI components
-│   ├── pages/          # App pages
-│   ├── data/           # Quiz questions (JSON or API config)
-│   └── App.js          # Main app component
-│
-├── package.json        # Project config
-└── README.md           # Project documentation
+2. **Docker Containerization**
 

@@ -31,4 +31,4 @@ A simple and interactive Quiz App that allows users to test their knowledge on v
 
 2. **Docker Containerization**
 
-3. ** API Gateway integration **
+3. **API Gateway integration with necessary AUTH**
